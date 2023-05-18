@@ -1,77 +1,62 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
+title: Ellina Kasymowa
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент/Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN University
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Я люблю собак, а также мне нравится гулять с моим другом/I love dogs  and also I like walk with my friend.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - изучать математику/study mathematics
+  - слушаь музыку/isten to music
+  - отдыхать/relax
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    Бакалавриат,Бизнес-информатика,2023 год/Bachelor course, Business Informatics, 2023 year.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  - icon: eLibrary 
+    icon_pack: fas 
+    link: https://elibrary.ru/
+  - icon: Google Scholar
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://scholar.google.com/citations?user=BOUdZP4AAAAJ&hl=ru
+  - icon: ORCID 
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://orcid.org/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/EllinaKasymowa/os_intro
+  - icon: Mendeley 
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.mendeley.com/
+  - icon: ResearchGate
+    icon_pack: fas
+    link: https://www.researchgate.net/profile/Ellina-Kasymova
+  - icon: Academia.edu
+    icon_pack: fas
+    link: https://independent.academia.edu/EllinaKasymova
+  - icon: arXiv 
+    icon_pack: fas
+    link: https://arxiv.org/user/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -79,6 +64,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Я родился в 2004 году, в стране Туркменистан, в городе Ашхабад. Я мастер ногтевого сервиса с опытом работы 2 года. Я целеустремлен и всегда добиваюсь того, чего хочу. Я поступил в этот университет, потому что мне очень нравится окружающая среда и дружелюбие людей / I was born in 2004, in the country of Turkmenistan, in the city of Ashgabat. I am a nail technician with 2 years experience. I am goal oriented and always achieve what I want. I entered this university because I really like the environment and the friendliness of people.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
